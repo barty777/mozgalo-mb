@@ -8,17 +8,9 @@ Through their solutions, students gather useful knowledge and information among 
 Data mining and predictive models are foundations of successful business in multiple industries and therefore this area can be considered the profession of the future.
 
 ## Task
-Strojno učenje je u zadnjih nekoliko godina u području računalnog vida napravilo
-svojevrsnu revoluciju. Na nekim javno dostupnim skupovima podataka postižu se
-rezultati bolji od čovjeka što ukazuje na veliki potencijal za ozbiljnu industrijsku
-primjenu. S druge strane, u praksi je razvijanje konkretnih rješenja često znatno
-kompleksnije zbog dodatnih zahtjeva i ograničenja. Cilj ovogodišnjeg Mozgala je
-upoznati studente s izazovima razvijanja robusnih rješenja strojnog učenja. Zadatak
-je u teoriji jednostavan problem klasifikacije slike koji u praksi postaje vrlo zahtjevan.
-Konkretno, radi se o klasifikaciji slika računa trgovačkih centara na temelju njihovih
-vidljivih logo obilježja. Timovi će na označenom skupu od ukupno 45 000 slika i 25
-različitih klasa razvijati rješenje čija će se robusnost mjeriti na skupu slika koje
-simuliraju stvarne uvjete industrijske primjene.
+In the last few years, Machine Learning has created a major disruption in the field of computer vision. ML algorithms achieve above human results on some public datasets which indicates the huge industrial potential. On the other hand,
+developing real-world solutions is often much complex because of the
+additional demands and constraints. The goal of this year's Mozgalo competition is to introduce students to the challenges of the robust machine learning solutions. Concretely, the competition theme is a classification task of receipts which come from 25 different retailers. On a given dataset of 45,000 receipt images, teams will develop a solution where the robustness will be measured on an evaluation dataset which simulates the real world conditions of the industrial application.
 
 ## Team 
 
