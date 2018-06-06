@@ -27,3 +27,4 @@ simuliraju stvarne uvjete industrijske primjene.
     * Bartol Freškura
     * Filip Gulan
     * Damir Kopljar
+* Final Test Set Macro F1 Score: 98.758%
